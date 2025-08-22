@@ -1,4 +1,4 @@
-<!-- 🔥 Animated Banner (replace GIF with your own later if you want) -->
+<!-- 🔥 Animated Banner (replace with your custom banner if you want) -->
 <p align="center">
   <img src="https://github.com/mugaw/mugaw/blob/main/banner.gif" alt="Muhammad Gawad Banner" width="100%" />
 </p>
@@ -34,7 +34,7 @@
 # 💻 Tech Stack
 <p align="center">
 
-<!-- All your original badges (full list retained, grouped for readability) -->
+<!-- All your tech stacks (grouped for readability) -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -113,8 +113,15 @@
 ---
 
 # 🐍 Contribution Snake
+
+[![Generate Snake Animation](https://github.com/mugaw/mugaw/actions/workflows/snake.yml/badge.svg)](https://github.com/mugaw/mugaw/actions/workflows/snake.yml)
+
 <p align="center">
-  <img src="https://github.com/mugaw/mugaw/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mugaw/mugaw/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mugaw/mugaw/output/snake-light.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/mugaw/mugaw/output/snake-dark.svg" />
+  </picture>
 </p>
 
 ---
@@ -134,8 +141,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mugaw&icon=4&color=13" alt="Profile Views" />
-</p>
+# 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=mugaw&color=blue&style=flat-square)
+
+---
 
 <p align="center">⭐ If you like my work, don’t forget to star my repos!</p>
