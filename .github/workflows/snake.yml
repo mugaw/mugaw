@@ -14,11 +14,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake.svg
+      - name: Generate snake dark mode
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: mugaw
-          outputs: dist/snake.svg
+          outputs: dist/snake-dark.svg
+          palette: github-dark
+
+      - name: Generate snake light mode
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: mugaw
+          outputs: dist/snake-light.svg
+          palette: github-light
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
