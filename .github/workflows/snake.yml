@@ -2,7 +2,6 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs every day at midnight UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -13,25 +12,15 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          persist-credentials: false  # Important for proper authentication
 
-      - name: Create output directory
-        run: mkdir -p dist
-
-      - name: Generate snake dark mode
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake animations
+        uses: Platane/snk@v3
         with:
           github_user_name: mugaw
-          outputs: dist/snake-dark.svg
-          palette: github-dark  # Fixed parameter name
-
-      - name: Generate snake light mode
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: mugaw
-          outputs: dist/snake-light.svg
-          palette: github-light  # Fixed parameter name
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
+          svg_relative_to: ./
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
