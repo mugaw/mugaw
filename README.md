@@ -1,6 +1,6 @@
-<!-- 🔥 Animated Banner -->
+<!-- 🔥 Visual 3.0 Animated Banner -->
 <p align="center">
-  <img src="https://github.com/mugaw/mugaw/blob/main/banner.gif" alt="Muhammad Gawad Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/mugaw/mugaw/main/banner.gif" alt="Muhammad Gawad Banner" width="100%" />
 </p>
 
 <!-- Typing Animation -->
@@ -27,9 +27,14 @@
 ---
 
 # 📊 GitHub Analysis
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mugaw&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugaw&theme=tokyonight&layout=compact&hide_border=true" width="48%" />
+  <table align="center">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=mugaw&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="450px"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugaw&theme=tokyonight&layout=compact&hide_border=true" width="300px"/></td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
@@ -45,7 +50,7 @@
 
 # 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mugaw&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mugaw&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -90,8 +95,12 @@
 
 # 📌 Featured Projects
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mugaw&repo=your-best-project&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mugaw&repo=another-cool-project&theme=tokyonight" />
+  <table align="center">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=mugaw&repo=your-best-project&theme=tokyonight" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=mugaw&repo=another-cool-project&theme=tokyonight" /></td>
+    </tr>
+  </table>
 </p>
 
 ---
