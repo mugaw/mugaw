@@ -1,7 +1,5 @@
 <!-- 🚀 Visual 4.0: High-Impact & Stable -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mugaw/mugaw/main/banner.gif" alt="Muhammad Gawad Banner" width="100%" />
-</p>
+
 
 <!-- Typing Animation -->
 <p align="center">
@@ -26,31 +24,10 @@
 
 ---
 
-# 📊 GitHub Analysis
+# 📊 GitHub Analysis & Achievements
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=mugaw&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" width="450px"/></td>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugaw&theme=tokyonight&layout=compact&hide_border=true&cache_seconds=1800" width="300px"/></td>
-    </tr>
-  </table>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mugaw&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%" />
-</p>
-
-<!-- Animated Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mugaw&theme=tokyonight&hide_border=true&area=true&cache_seconds=1800" width="100%" />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mugaw&theme=tokyonight&no-frame=true&margin-w=15&cache_seconds=1800" />
+  <img src="https://github.com/mugaw/mugaw/blob/metrics/github-metrics.svg" alt="GitHub Metrics" width="100%">
 </p>
 
 ---
@@ -93,18 +70,7 @@
 
 ---
 
-# 📌 Featured Projects
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mugaw&repo=nutrifacts&theme=tokyonight&cache_seconds=86400" /></td>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mugaw&repo=Science-site&theme=tokyonight&cache_seconds=86400" /></td>
-    </tr>
-  </table>
-</p>
-
----
 
 # 🐍 Contribution Snake
 <p align="center">
