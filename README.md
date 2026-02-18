@@ -145,7 +145,6 @@ diff
 </p>
 
 🐍 CONTRIBUTION MATRIX
-⚠️ Note: The snake animation requires GitHub Actions setup. If you see a broken image, follow the setup instructions.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/mugaw/mugaw/output/snake.svg"/>
