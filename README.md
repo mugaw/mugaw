@@ -34,136 +34,126 @@ diff
 
 ⚡ CORE LANGUAGES
 <p align="center">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"/>
 </p>
 
 🎨 FRONTEND DOMINATION
 <p align="center">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D"/>
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white"/>
-<img src="https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white"/>
-<img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white"/>
-<img src="https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white"/>
-<img src="https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=plastic"/>
-<br/>
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black"/>
-<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white"/>
-<img src="https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=plastic&logo=gutenberg&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vuedotjs&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Electron-2B2E3A?style=plastic&logo=electron&logoColor=9FEAF9"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=reactrouter&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=plastic&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=plastic&logo=reacthookform&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=plastic&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebGL-990000?style=plastic&logo=webgl&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=plastic&logo=webpack&logoColor=black"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=plastic&logo=wordpress&logoColor=white"/>
 </p>
 
 ⚙️ BACKEND / SYSTEMS
 <p align="center">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white"/>
-<img src="https://img.shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=plastic&labelColor=171717&logoColor=5cb85c"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-D22128?style=plastic&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=plastic&logo=ffmpeg&logoColor=white"/>
 <img src="https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-1A1918?style=plastic&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=plastic&logo=ansible&logoColor=white"/>
 </p>
 
 ☁️ CLOUD / DEVOPS MATRIX
 <p align="center">
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=plastic&logo=alibabacloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase"/>
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=plastic&logo=alibabadotcom&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=terraform&logoColor=white"/>
 </p>
 
 🤖 AI / ML CORE
 <p align="center">
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black"/>
-<img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=plastic&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logo=python&logoColor=white"/>
 </p>
 
 🔧 TOOLS & WORKFLOW
 <p align="center">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6"/>
-<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=plastic&logo=adobexd&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=plastic&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=plastic&logo=windowsterminal&logoColor=white"/>
 </p>
 
 🎮 GAMING / GPU MATRIX
 <p align="center">
-<img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white"/>
-<img src="https://img.shields.io/badge/AMD-%23000000.svg?style=plastic&logo=amd&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=plastic"/>
-<br/>
-<img src="https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white"/>
-<img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white"/>
-<img src="https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=plastic&logo=Ubisoft&logoColor=black"/>
-<img src="https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=plastic&logo=SquareEnix&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white"/>
-<img src="https://img.shields.io/badge/PSN-%230070D1.svg?style=plastic&logo=Playstation&logoColor=white"/>
-<img src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=plastic&logo=battle.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/ea-%23000000.svg?style=plastic&logo=ea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Analogue-1A1A1A?style=plastic&logo=Analogue&logoColor=white"/>
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=plastic&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/AMD-ED1C24?style=plastic&logo=amd&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=plastic&logo=opengl&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Steam-000000?style=plastic&logo=steam&logoColor=white"/>
+<img src="https://img.shields.io/badge/Epic_Games-313131?style=plastic&logo=epicgames&logoColor=white"/>
+<img src="https://img.shields.io/badge/Riot_Games-D32936?style=plastic&logo=riotgames&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubisoft-0070FF?style=plastic&logo=ubisoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Square_Enix-ED1C24?style=plastic&logo=squareenix&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Xbox-107C10?style=plastic&logo=xbox&logoColor=white"/>
+<img src="https://img.shields.io/badge/PlayStation-003791?style=plastic&logo=playstation&logoColor=white"/>
+<img src="https://img.shields.io/badge/Battle.net-148EFF?style=plastic&logo=battledotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/EA-000000?style=plastic&logo=ea&logoColor=white"/>
 </p>
 
-📊 GITHUB AI ANALYTICS
+📊 GITHUB ANALYTICS
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mugaw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mugaw&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mugaw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mugaw&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugaw&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugaw&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mugaw&theme=tokyonight"/>
 </p>
 
 🐍 CONTRIBUTION MATRIX
+⚠️ Note: The snake animation requires GitHub Actions setup. If you see a broken image, follow the setup instructions.
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/mugaw/mugaw/output/snake.svg"/>
 </p>
 
 🏆 ACHIEVEMENT GRID
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mugaw&theme=tokyonight&no-frame=true&row=1"/>
-</p>
-
-💡 FEATURED METRICS
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mugaw&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mugaw&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mugaw&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mugaw&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mugaw&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 <p align="center">
