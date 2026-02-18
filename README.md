@@ -1,133 +1,152 @@
-<!-- ================= HEADER ================= -->
+<!-- ================================================= -->
+<!-- ================= CYBERPUNK HEADER ============== -->
+<!-- ================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F7FF,50:6A00FF,100:FF00F7&text=Muhammad%20Gawad&fontSize=45&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Automation%20Specialist&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=Muhammad%20Gawad&fontSize=50&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Automation%20Specialist&descAlignY=65&animation=fadeIn"/>
 </p>
 
-<!-- ================= TYPING ANIMATION ================= -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Frontend+Developer+%26+Automation+Engineer;Building+Scalable+React+Applications;Python+Automation+Specialist;AI+%26+Web3+Explorer;Open+Source+Contributor;Performance+Optimization+Focused" />
-</p>
-
----
-
-<!-- ================= ABOUT ME ================= -->
-
-<h2 align="center">💫 About Me</h2>
-
-<p align="center">
-🌍 Based in Egypt <br>
-💻 Frontend Developer & Automation Specialist <br>
-⚛️ Currently building scalable React applications <br>
-🧠 Learning Advanced Automation Patterns & System Design <br>
-🚀 Working on React projects + Python automation tools <br>
-🤝 Open to collaboration on React & Python projects <br>
-💬 Ask me about JavaScript, React, Python, Web Performance <br><br>
-🎮 Gamer | ⚽ Football Lover | 🍕 Food Explorer
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF00F7&center=true&vCenter=true&width=900&lines=React+Architect;Python+Automation+Engineer;AI%2FML+Integration;Cloud+%26+DevOps;Cyberpunk+Code+Builder" />
 </p>
 
 ---
 
-<!-- ================= SOCIALS ================= -->
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-gawad-449552b5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/muhammedgawad">
-    <img src="https://img.shields.io/badge/X-Black?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:muhammedgawad@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/muhammad1gawad">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<!-- ================= TECH STACK ================= -->
-
-<h2 align="center">💻 Core Tech Stack</h2>
+# 🌌 CYBER PROFILE
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,django,nodejs,tailwind,graphql,firebase,aws,vercel,docker,git,github,linux,vite,webpack,flutter,tensorflow,pytorch" />
+🌍 Based in Egypt  
+⚛️ Frontend Developer & Automation Specialist  
+🚀 Building scalable React ecosystems  
+🧠 Deep diving into Automation & System Design  
+🤖 Integrating AI into real-world applications  
+🎮 Gamer | ⚽ Football Enthusiast | 🍕 Explorer  
 
 </p>
 
 ---
 
-<!-- ================= ANIMATED SKILL BARS ================= -->
-
-<h2 align="center">📊 Technical Strength</h2>
+# 🔗 CONNECT
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugaw&layout=compact&theme=radical&hide_border=true" width="400"/>
+<a href="https://www.linkedin.com/in/muhammad-gawad-449552b5/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/muhammedgawad">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="mailto:muhammedgawad@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-<!-- ================= SNAKE CONTRIBUTION ================= -->
-
-<h2 align="center">🐍 Contribution Flow</h2>
+# 🧠 CORE STACK
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mugaw/mugaw/output/snake.svg" />
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+
 </p>
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-
-<h2 align="center">📈 GitHub Stats</h2>
+# ☁️ CLOUD & DEVOPS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mugaw&show_icons=true&theme=radical&hide_border=true&count_private=true" width="420"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mugaw&theme=radical&hide_border=true" width="420"/>
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=plastic&logo=alibabacloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white)
+
 </p>
 
 ---
 
-<!-- ================= TROPHIES ================= -->
-
-<h2 align="center">🏆 Achievements</h2>
+# 🤖 AI / ML STACK
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mugaw&theme=radical&no-frame=true&margin-w=10"/>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)
+
 </p>
 
 ---
 
-<!-- ================= FEATURED PROJECT ================= -->
-
-<h2 align="center">🚀 Featured Focus</h2>
+# 🎨 FRONTEND ECOSYSTEM
 
 <p align="center">
-Building scalable React architectures <br>
-Creating automation systems with Python <br>
-Integrating AI/ML into real-world applications <br>
-Designing high-performance web experiences
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
+![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=plastic)
+
 </p>
 
 ---
 
-<!-- ================= VISITOR COUNTER ================= -->
+# 📊 GITHUB METRICS
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mugaw&icon=5&color=6" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=mugaw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mugaw&theme=tokyonight&hide_border=true" height="170"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugaw&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<!-- ================= FOOTER ================= -->
+# 🐍 NEON CONTRIBUTION GRID
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:FF00F7,50:6A00FF,100:00F7FF"/>
+<img src="https://raw.githubusercontent.com/mugaw/mugaw/output/snake.svg" />
+</p>
+
+---
+
+# 🏆 TROPHIES
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mugaw&theme=tokyonight&no-frame=true"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:24243e,50:302b63,100:0f0c29"/>
 </p>
