@@ -1,31 +1,146 @@
-# 💫 About Me:
- location: "🌍 Based in Egypt",<br>    role: "Frontend Developer & Automation Specialist",<br>    currentFocus: "Building scalable React applications",<br>    learning: ["Advanced automation patterns", "Performance optimization", "System design"],<br>    interests: ["Open source", "Web3", "AI/ML integration"],<br>    workingOn: "React project + Python app",<br>    openTo: "Collaborating on React & Python automation projects",<br>    askMeAbout: ["JavaScript", "React", "Python automation", "Web performance"],<br>    funFact: "🎮 Gamer | ⚽ Football enthusiast | 🍕 Food explorer"
+<div align="center">
 
+<!-- Animated Typing Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Gawad;Frontend+Developer+%26+Automation+Specialist;Building+scalable+React+applications;Based+in+Egypt+%F0%9F%87%AA%F0%9F%87%AC)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1FtooJCVFC/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammad1gawad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-gawad-449552b5/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@muhammad1gawad?_r=1&_t=ZS-93zU0goCGgS) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/muhammedgawad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammedgawad@gmail.com) 
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=plastic&logo=alibabacloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white) ![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=plastic&logo=gutenberg&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=plastic) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=plastic&labelColor=171717&logoColor=5cb85c) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=plastic&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=plastic) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=plastic&logo=SquareEnix&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=plastic&logo=Playstation&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=plastic&logo=battle.net&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=plastic&logo=ea&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=plastic&logo=amd&logoColor=white) ![Analogue](https://img.shields.io/badge/Analogue-1A1A1A?style=plastic&logo=Analogue&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mugaw&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mugaw&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mugaw&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mugaw&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mugaw&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
+<!-- Profile Views -->
 [![](https://visitcount.itsvg.in/api?id=mugaw&icon=6&color=13)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/muhammad1gawad) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/muhammadgawad) 
+</div>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<div align="center">
+
+## 💫 About Me
+
+<table>
+<tr>
+<td>
+
+```javascript
+const muhammad = {
+  location: "🌍 Based in Egypt",
+  role: "Frontend Developer & Automation Specialist",
+  currentFocus: "Building scalable React applications",
+  learning: [
+    "Advanced automation patterns",
+    "Performance optimization", 
+    "System design"
+  ],
+  interests: ["Open source", "Web3", "AI/ML integration"],
+  workingOn: "React project + Python app",
+  openTo: "Collaborating on React & Python automation projects",
+  askMeAbout: ["JavaScript", "React", "Python automation", "Web performance"],
+  funFact: "🎮 Gamer | ⚽ Football enthusiast | 🍕 Food explorer"
+};
+</td>
+</tr>
+</table>
+</div>
+<div align="center">
+🌐 Connect With Me
+https://facebook.com/https://www.facebook.com/share/1FtooJCVFC/
+https://instagram.com/muhammad1gawad
+https://linkedin.com/in/https://www.linkedin.com/in/muhammad-gawad-449552b5/
+https://tiktok.com/@https://www.tiktok.com/@muhammad1gawad?_r=1&_t=ZS-93zU0goCGgS
+https://x.com/muhammedgawad
+mailto:muhammedgawad@gmail.com
+</div>
+<div align="center">
+💻 Tech Stack
+Languages
+https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white
+https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E
+https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white
+https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54
+https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white
+https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white
+https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white
+https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white
+Frontend & Frameworks
+https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB
+https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white
+https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D
+https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white
+https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white
+https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB
+https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white
+https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white
+Backend & Tools
+https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white
+https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white
+https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white
+https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white
+https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black
+Cloud & DevOps
+https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white
+https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white
+https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase
+https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white
+https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white
+https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white
+https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white
+AI/ML & Data
+https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white
+https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white
+https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white
+https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white
+https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white
+Design & Creative
+https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white
+https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6
+https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white
+Gaming 🎮
+https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white
+https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white
+https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white
+https://img.shields.io/badge/PSN-%230070D1.svg?style=plastic&logo=Playstation&logoColor=white
+</div>
+<div align="center">
+📊 GitHub Stats
+<table>
+<tr>
+<td width="50%">
+https://github-readme-stats.vercel.app/api?username=mugaw&theme=radical&hide_border=false&include_all_commits=true&count_private=true
+</td>
+<td width="50%">
+https://nirzak-streak-stats.vercel.app/?user=mugaw&theme=radical&hide_border=false
+</td>
+</tr>
+</table>
+https://github-readme-stats.vercel.app/api/top-langs/?username=mugaw&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact
+</div>
+<div align="center">
+🐍 Contribution Snake
+https://raw.githubusercontent.com/mugaw/mugaw/output/github-contribution-grid-snake.svg
+<!-- Alternative if above doesn't work: -->
+<!-- ![Snake animation](https://github.com/mugaw/mugaw/blob/output/github-contribution-grid-snake.svg) -->
+</div>
+<div align="center">
+🏆 GitHub Trophies
+https://github-profile-trophy.vercel.app/?username=mugaw&theme=radical&no-frame=false&no-bg=false&margin-w=4
+</div>
+<div align="center">
+🔥 Featured Projects
+<!-- Replace these with your actual top repositories -->
+<a href="https://github.com/mugaw/repo1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mugaw&repo=repo1&theme=radical" />
+</a>
+<a href="https://github.com/mugaw/repo2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mugaw&repo=repo2&theme=radical" />
+</a>
+</div>
+<div align="center">
+✍️ Random Dev Quote
+https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical
+</div>
+<div align="center">
+💰 Support My Work
+https://buymeacoffee.com/muhammad1gawad
+https://ko-fi.com/muhammadgawad
+</div>
+<div align="center">
+Thanks for visiting! ⭐️
+</div>
+```
