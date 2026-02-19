@@ -1,160 +1,232 @@
-<!-- ========================================================= -->
-<!-- ===================== CYBERPUNK GOD MODE =============== -->
-<!-- ========================================================= -->
+<br clear="both">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,20:0f0c29,40:302b63,60:24243e,80:1a1a2e,100:00F5FF&text=MUHAMMAD%20GAWAD&fontSize=60&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Architect%20%7C%20Automation%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=68&descSize=20"/>
-</p>
+<h1 align="center">Hey 👋 MuGaw is here!</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&lines=Cyberpunk+Full+Stack+Engineer;React+%7C+Python+%7C+Cloud+%7C+AI;Automation+%26+System+Architecture;Mobile+%7C+Desktop+%7C+Web;Building+Scalable+Intelligent+Systems"/>
-</p>
+###
 
-🧠 NEURAL IDENTITY
-diff
+<br clear="both">
 
-+ Name: Muhammad Gawad
-+ Location: Egypt 🇪🇬
-+ Role: Frontend Architect | Automation Specialist | AI Integrator
-+ Core Focus: Scalable React Systems + Python Automation
-+ Cloud Focus: AWS | GCP | Cloudflare | Terraform
-+ Mission: Engineer intelligent, high-performance digital ecosystems
-🌐 CONNECT
-<p align="center">
-<a href="https://www.linkedin.com/in/muhammad-gawad-449552b5/">
-<img src="https://img.shields.io/badge/LINKEDIN-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-<a href="mailto:muhammedgawad@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-FF00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/mugaw">
-<img src="https://img.shields.io/badge/GITHUB-24243e?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+<p align="center">NEURAL IDENTITY diff:<br><br>Name: Muhammad Gawad<br>Location: Egypt 🇪🇬<br>Role: Frontend Architect | Automation Specialist | AI Integrator<br>Core Focus: Scalable React Systems + Python Automation<br>Cloud Focus: AWS | GCP | Cloudflare | Terraform<br>Mission: Engineer intelligent, high-performance digital ecosystems</p>
 
-⚡ CORE LANGUAGES
-<p align="center">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"/>
-</p>
+###
 
-🎨 FRONTEND DOMINATION
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vuedotjs&logoColor=4FC08D"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Electron-2B2E3A?style=plastic&logo=electron&logoColor=9FEAF9"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=reactrouter&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Query-FF4154?style=plastic&logo=reactquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=plastic&logo=reacthookform&logoColor=white"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=plastic&logo=three.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebGL-990000?style=plastic&logo=webgl&logoColor=white"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=plastic&logo=webpack&logoColor=black"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=plastic&logo=wordpress&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="60" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="60" alt="behance logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="60" alt="facebook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="60" alt="firefox logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="60" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="60" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="60" alt="salesforce logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="60" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="60" alt="threejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="60" alt="webflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="60" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="60" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="60" alt="woocommerce logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="60" alt="xd logo"  />
+</div>
 
-⚙️ BACKEND / SYSTEMS
-<p align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache-D22128?style=plastic&logo=apache&logoColor=white"/>
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=plastic&logo=ffmpeg&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=plastic&logo=ansible&logoColor=white"/>
-</p>
+###
 
-☁️ CLOUD / DEVOPS MATRIX
-<p align="center">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=plastic&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=plastic&logo=alibabadotcom&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=cloudflare&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=terraform&logoColor=white"/>
-</p>
+<br clear="both">
 
-🤖 AI / ML CORE
-<p align="center">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=plastic&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logo=python&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+</div>
 
-🔧 TOOLS & WORKFLOW
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=plastic&logo=adobexd&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=plastic&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=plastic&logo=windowsterminal&logoColor=white"/>
-</p>
+###
 
-🎮 GAMING / GPU MATRIX
-<p align="center">
-<img src="https://img.shields.io/badge/NVIDIA-76B900?style=plastic&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/AMD-ED1C24?style=plastic&logo=amd&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenGL-5586A4?style=plastic&logo=opengl&logoColor=white"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Steam-000000?style=plastic&logo=steam&logoColor=white"/>
-<img src="https://img.shields.io/badge/Epic_Games-313131?style=plastic&logo=epicgames&logoColor=white"/>
-<img src="https://img.shields.io/badge/Riot_Games-D32936?style=plastic&logo=riotgames&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubisoft-0070FF?style=plastic&logo=ubisoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Square_Enix-ED1C24?style=plastic&logo=squareenix&logoColor=white"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Xbox-107C10?style=plastic&logo=xbox&logoColor=white"/>
-<img src="https://img.shields.io/badge/PlayStation-003791?style=plastic&logo=playstation&logoColor=white"/>
-<img src="https://img.shields.io/badge/Battle.net-148EFF?style=plastic&logo=battledotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/EA-000000?style=plastic&logo=ea&logoColor=white"/>
-</p>
+<br clear="both">
 
-📊 GITHUB ANALYTICS
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mugaw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mugaw&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/muhammad-gawad-449552b5/skills/edit/forms/new/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="120" height="70" alt="linkedin logo"  />
+  </a>
+  <a href="@muhammedgawad" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="120" height="70" alt="twitter logo"  />
+  </a>
+  <a href="https://www.facebook.com/share/1L2HVAguXR/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="120" height="70" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/muhammad1gawad/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="120" height="70" alt="instagram logo"  />
+  </a>
+  <a href="https://ko-fi.com/muhammadgawad" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="120" height="70" alt="ko-fi logo"  />
+  </a>
+</div>
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugaw&layout=compact&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mugaw&theme=tokyonight"/>
-</p>
+###
 
-🐍 CONTRIBUTION MATRIX
+<br clear="both">
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/mugaw/mugaw/output/snake.svg"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mugaw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&custom_title=My%20stats" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mugaw&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2&custom_title=Lang" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=mugaw&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mugaw&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-🏆 ACHIEVEMENT GRID
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mugaw&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+###
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:000000,50:302b63,100:00F5FF"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mugaw/mugaw/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mugaw/mugaw/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mugaw/mugaw/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/mugaw/mugaw/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:mugaw?theme=booru-helltaker&padding=7&scale=1.5&align=center&pixelated=0&darkmode=1"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/2" alt="Medium post 3"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/3">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/3" alt="Medium post 4"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/4">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/4" alt="Medium post 5"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&reversal=true&text=999999&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
+
+###
