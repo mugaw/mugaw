@@ -103,130 +103,14 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-gawad-449552b5/skills/edit/forms/new/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="120" height="70" alt="linkedin logo"  />
-  </a>
-  <a href="@muhammedgawad" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="120" height="70" alt="twitter logo"  />
-  </a>
-  <a href="https://www.facebook.com/share/1L2HVAguXR/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="120" height="70" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/muhammad1gawad/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="120" height="70" alt="instagram logo"  />
-  </a>
-  <a href="https://ko-fi.com/muhammadgawad" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="120" height="70" alt="ko-fi logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mugaw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&custom_title=My%20stats" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mugaw&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2&custom_title=Lang" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mugaw&locale=en&hide_title=false&layout=default&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2&custom_title=Lang" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=mugaw&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mugaw&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mugaw/mugaw/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mugaw/mugaw/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mugaw/mugaw/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/mugaw/mugaw/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:mugaw?theme=booru-helltaker&padding=7&scale=1.5&align=center&pixelated=0&darkmode=1"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/2" alt="Medium post 3"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/3">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/3" alt="Medium post 4"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/4">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/4" alt="Medium post 5"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&reversal=true&text=999999&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&reversal=true&text=999999&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
-
-###
