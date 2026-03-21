@@ -17,37 +17,48 @@
 
 ---
 
-<div align="center">
-
 ## 🌐 Frontend React Mastery
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndic2R3YnNkd2JzZHdic2R3YnNkd2JzZHdic2R3YnNkd2JzZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" />
 
-**Reinventing the User Experience.**
-As a specialized **Frontend React Developer**, I focus on building high-performance, accessible, and stunning web interfaces. I thrive on modern styling patterns, state management, and pixel-perfect execution. My goal is to make the web feel alive through code.
-
-**Key Stacks:**
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,sass,vite&theme=dark" alt="Frontend Stacks" />
-
-</div>
-
-<br clear="both" />
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3><b>Reinventing the User Experience.</b></h3>
+      <p>As a specialized <b>Frontend React Developer</b>, I focus on building high-performance, accessible, and stunning web interfaces. I thrive on modern styling patterns, state management, and pixel-perfect execution. My goal is to make the web feel alive through code.</p>
+      <h4><b>Core Frontend Stack:</b></h4>
+      <p>
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="45" height="45" alt="React" /> &nbsp;
+        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="45" height="45" alt="TypeScript" /> &nbsp;
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="45" height="45" alt="JavaScript" /> &nbsp;
+        <img src="https://skillicons.dev/icons?i=nextjs,tailwind,redux,sass,vite&theme=dark" alt="Other Skills" />
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndic2R3YnNkd2JzZHdic2R3YnNkd2JzZHdic2R3YnNkd2JzZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
-
 ## 🐍 Python Development & Logic
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFlMHJ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5JmN0PWc/xT0xeJpnrWC4XWblEk/giphy.gif" width="300" align="left" />
 
-**Architecture Behind the Scenes.**
-Beyond the visuals, I am a dedicated **Python Developer**. I build robust backend systems, scalable APIs, and complex logic that powers modern applications. Whether it's data processing or server-side orchestration, I ensure efficiency and reliability are at the core.
-
-**Key Stacks:**
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,mysql,mongodb,docker,git&theme=dark" alt="Backend Stacks" />
-
-</div>
-
-<br clear="both" />
+<table align="center" width="100%">
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFlMHJ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5JmN0PWc/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%" />
+    </td>
+    <td width="60%" valign="top">
+      <h3><b>Architecture Behind the Scenes.</b></h3>
+      <p>Beyond the visuals, I am a dedicated <b>Python Developer</b>. I build robust backend systems, scalable APIs, and complex logic that powers modern applications. Whether it's data processing or server-side orchestration, I ensure efficiency and reliability are at the core.</p>
+      <h4><b>Core Backend Stack:</b></h4>
+      <p>
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="45" height="45" alt="Python" /> &nbsp;
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="45" height="45" alt="Node" /> &nbsp;
+        <img src="https://skillicons.dev/icons?i=django,fastapi,flask,postgres,mysql,mongodb,docker,git&theme=dark" alt="Backend Skills" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -87,23 +98,23 @@ Beyond the visuals, I am a dedicated **Python Developer**. I build robust backen
 <div align="center">
 
 <a href="https://www.linkedin.com/in/muhammad-gawad-449552b5/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" height="50" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://twitter.com/muhammedgawad">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50" height="50" alt="Twitter" />
 </a>
 &nbsp;
 <a href="https://www.facebook.com/share/1L2HVAguXR/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="50" height="50" alt="Facebook" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/muhammad1gawad/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50" height="50" alt="Instagram" />
 </a>
 &nbsp;
 <a href="https://ko-fi.com/muhammadgawad">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" alt="Ko-fi" />
 </a>
 
 </div>
