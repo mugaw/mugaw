@@ -20,17 +20,13 @@
 <div align="center">
 
 ## 🌐 Frontend React Mastery
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJocmdycHJndHJndHJndHJndHJndHJndHJndHJndHJndHJndHJndHImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/L1R1TVr9W5G7LfYM39/giphy.gif" width="300" align="right" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndic2R3YnNkd2JzZHdic2R3YnNkd2JzZHdic2R3YnNkd2JzZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" />
 
 **Reinventing the User Experience.**
 As a specialized **Frontend React Developer**, I focus on building high-performance, accessible, and stunning web interfaces. I thrive on modern styling patterns, state management, and pixel-perfect execution. My goal is to make the web feel alive through code.
 
 **Key Stacks:**
-<img src="https://raw.githubusercontent.com/vaxidrez/vaxidrez/main/assets/react.gif" width="40" height="40" /> &nbsp;
-<img src="https://raw.githubusercontent.com/vaxidrez/vaxidrez/main/assets/typescript.gif" width="40" height="40" /> &nbsp;
-<img src="https://raw.githubusercontent.com/vaxidrez/vaxidrez/main/assets/javascript.gif" width="40" height="40" /> &nbsp;
-<img src="https://raw.githubusercontent.com/vaxidrez/vaxidrez/main/assets/html.gif" width="40" height="40" /> &nbsp;
-<img src="https://raw.githubusercontent.com/vaxidrez/vaxidrez/main/assets/css.gif" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,sass,vite&theme=dark" alt="Frontend Stacks" />
 
 </div>
 
@@ -41,17 +37,13 @@ As a specialized **Frontend React Developer**, I focus on building high-performa
 <div align="center">
 
 ## 🐍 Python Development & Logic
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJocmdycHJndHJndHJndHJndHJndHJndHJndHJndHJndHJndHJndHImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKMGpxP5Oq7m9oc/giphy.gif" width="300" align="left" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFlMHJ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5JmN0PWc/xT0xeJpnrWC4XWblEk/giphy.gif" width="300" align="left" />
 
 **Architecture Behind the Scenes.**
 Beyond the visuals, I am a dedicated **Python Developer**. I build robust backend systems, scalable APIs, and complex logic that powers modern applications. Whether it's data processing or server-side orchestration, I ensure efficiency and reliability are at the core.
 
 **Key Stacks:**
-<img src="https://raw.githubusercontent.com/vaxidrez/vaxidrez/main/assets/python.gif" width="40" height="40" /> &nbsp;
-<img src="https://raw.githubusercontent.com/vaxidrez/vaxidrez/main/assets/django.gif" width="40" height="40" /> &nbsp;
-<img src="https://raw.githubusercontent.com/vaxidrez/vaxidrez/main/assets/node.gif" width="40" height="40" /> &nbsp;
-<img src="https://raw.githubusercontent.com/vaxidrez/vaxidrez/main/assets/docker.gif" width="40" height="40" /> &nbsp;
-<img src="https://raw.githubusercontent.com/vaxidrez/vaxidrez/main/assets/git.gif" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,mysql,mongodb,docker,git&theme=dark" alt="Backend Stacks" />
 
 </div>
 
@@ -65,18 +57,18 @@ Beyond the visuals, I am a dedicated **Python Developer**. I build robust backen
 
 <!-- Trophies (Optimized for Visibility) -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=mugaw&theme=radical&column=7&no-frame=true&no-bg=true" width="100%" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mugaw&theme=radical&row=1&column=7&no-frame=true&no-bg=true" width="100%" alt="Trophies" />
 </a>
 
 <br/>
 
-<!-- Fixed Stats Integration (Using default bg if custom fails) -->
-<img src="https://github-readme-stats.vercel.app/api?username=mugaw&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugaw&layout=compact&theme=radical&border_radius=10" height="180" alt="Top Languages" />
+<!-- Stats & Languages -->
+<img src="https://github-readme-stats.vercel.app/api?username=mugaw&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugaw&layout=compact&theme=radical&border_radius=10&hide_border=true" height="180" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mugaw&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mugaw&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -95,23 +87,23 @@ Beyond the visuals, I am a dedicated **Python Developer**. I build robust backen
 <div align="center">
 
 <a href="https://www.linkedin.com/in/muhammad-gawad-449552b5/">
-  <img src="https://raw.githubusercontent.com/vaxidrez/vaxidrez/main/assets/linkedin.gif" width="50" height="50" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://twitter.com/muhammedgawad">
-  <img src="https://raw.githubusercontent.com/vaxidrez/vaxidrez/main/assets/twitter.gif" width="50" height="50" alt="Twitter" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 &nbsp;
 <a href="https://www.facebook.com/share/1L2HVAguXR/">
-  <img src="https://raw.githubusercontent.com/vaxidrez/vaxidrez/main/assets/facebook.gif" width="50" height="50" alt="Facebook" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/muhammad1gawad/">
-  <img src="https://raw.githubusercontent.com/vaxidrez/vaxidrez/main/assets/instagram.gif" width="50" height="50" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 &nbsp;
 <a href="https://ko-fi.com/muhammadgawad">
-  <img src="https://raw.githubusercontent.com/vaxidrez/vaxidrez/main/assets/kofi.gif" width="50" height="50" alt="Ko-fi" />
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
 </a>
 
 </div>
