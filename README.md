@@ -45,7 +45,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/L1R1TVpw9otU1BeE97/giphy.gif" width="100%" />
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%" />
     </td>
     <td width="60%" valign="top">
       <h3><b>Architecture Behind the Scenes.</b></h3>
@@ -66,9 +66,9 @@
 
 <div align="center">
 
-<!-- Trophies (Using Nu Mirror for stability) -->
+<!-- Trophies (Official Service) -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy-nu.vercel.app/?username=mugaw&theme=radical&row=1&column=7&no-frame=true&no-bg=true" width="100%" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mugaw&theme=radical&row=1&column=7&no-frame=true&no-bg=true" width="100%" alt="Trophies" />
 </a>
 
 <br/>
@@ -117,15 +117,6 @@
   <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" alt="Ko-fi" />
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>✍️ Recent Insights</h3>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mjawad17/0"> 
-    <img style="border-radius: 10px;" src="https://github-readme-medium-recent-article.vercel.app/medium/@mjawad17/0" alt="Medium post" /> 
-  </a>
 </div>
 
 <br/>
