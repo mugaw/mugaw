@@ -67,7 +67,7 @@
 <div align="center">
 
 <!-- Trophies (Official Service) -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github.com/mugaw/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=mugaw&theme=radical&row=1&column=7&no-frame=true&no-bg=true" width="100%" alt="Trophies" />
 </a>
 
