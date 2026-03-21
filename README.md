@@ -45,7 +45,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="40%" align="center">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFlMHJ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5bmZ5JmN0PWc/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%" />
+      <img src="https://media.giphy.com/media/L1R1TVpw9otU1BeE97/giphy.gif" width="100%" />
     </td>
     <td width="60%" valign="top">
       <h3><b>Architecture Behind the Scenes.</b></h3>
@@ -66,9 +66,9 @@
 
 <div align="center">
 
-<!-- Trophies (Optimized for Visibility) -->
+<!-- Trophies (Using Nu Mirror for stability) -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=mugaw&theme=radical&row=1&column=7&no-frame=true&no-bg=true" width="100%" alt="Trophies" />
+  <img src="https://github-profile-trophy-nu.vercel.app/?username=mugaw&theme=radical&row=1&column=7&no-frame=true&no-bg=true" width="100%" alt="Trophies" />
 </a>
 
 <br/>
@@ -123,8 +123,8 @@
 
 <div align="center">
   <h3>✍️ Recent Insights</h3>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/0"> 
-    <img style="border-radius: 10px;" src="https://github-readme-medium-recent-article.vercel.app/medium/@mugaw/0" alt="Medium post" /> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mjawad17/0"> 
+    <img style="border-radius: 10px;" src="https://github-readme-medium-recent-article.vercel.app/medium/@mjawad17/0" alt="Medium post" /> 
   </a>
 </div>
 
