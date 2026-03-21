@@ -63,18 +63,20 @@ Beyond the visuals, I am a dedicated **Python Developer**. I build robust backen
 
 <div align="center">
 
-<!-- Trophies (Testing Radical Theme with explicit height) -->
-<img src="https://github-profile-trophy.vercel.app/?username=mugaw&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true" width="100%" alt="Trophies" />
+<!-- Trophies (Optimized for Visibility) -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=mugaw&theme=radical&column=7&no-frame=true&no-bg=true" width="100%" alt="Trophies" />
+</a>
 
 <br/>
 
-<!-- Fixed Stats Integration -->
-<img src="https://github-readme-stats.vercel.app/api?username=mugaw&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugaw&layout=compact&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
+<!-- Fixed Stats Integration (Using default bg if custom fails) -->
+<img src="https://github-readme-stats.vercel.app/api?username=mugaw&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugaw&layout=compact&theme=radical&border_radius=10" height="180" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mugaw&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mugaw&theme=radical" alt="GitHub Streak" />
 
 </div>
 
