@@ -88,7 +88,11 @@
 <h2 align="center"> 🐍 Progressive Activity </h2>
 
 <div align="center">
+  <h3>🐍 Snake Animation</h3>
   <img src="https://raw.githubusercontent.com/mugaw/mugaw/output/snake.svg" alt="GitHub Contribution Snake" width="80%"/>
+  <br/><br/>
+  <h3>🕹️ Pacman Animation</h3>
+  <img src="https://raw.githubusercontent.com/mugaw/mugaw/output/pacman-contribution-graph-dark.svg" alt="GitHub Contribution Pacman" width="80%"/>
 </div>
 
 ---
@@ -116,6 +120,18 @@
 <a href="https://ko-fi.com/muhammadgawad">
   <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" alt="Ko-fi" />
 </a>
+
+<br/><br/>
+
+<h3>🤝 Let's Build Something Amazing Together!</h3>
+<p>
+  Check out my full professional profile and repositories: 
+  <br/>
+  <a href="https://github.com/mugaw">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+</p>
+
 
 </div>
 
