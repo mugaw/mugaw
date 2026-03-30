@@ -66,19 +66,14 @@
 
 <div align="center">
 
-<!-- Trophies (Official Service) -->
+<!-- Comprehensive GitHub Metrics (Stats, Languages, Achievements) -->
 <a href="https://github.com/mugaw">
-  <img src="https://github-profile-trophy.vercel.app/?username=mugaw&theme=radical&row=1&column=7&no-frame=true&no-bg=true" width="100%" alt="Trophies" />
+  <img src="https://raw.githubusercontent.com/mugaw/mugaw/output/github-metrics.svg" width="100%" alt="GitHub Metrics" />
 </a>
 
 <br/>
 
-<!-- Stats & Languages -->
-<img src="https://github-readme-stats.vercel.app/api?username=mugaw&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugaw&layout=compact&theme=radical&border_radius=10&hide_border=true" height="180" alt="Top Languages" />
-
-<br/>
-
+<!-- GitHub Contribution Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mugaw&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
