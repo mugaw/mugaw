@@ -53,7 +53,7 @@ jobs:
       - name: generate github-metrics.svg
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.ANTI_METRIC_TOKEN }}
           filename: github-metrics.svg
           output_action: commit
           committer_branch: output
